@@ -44,6 +44,7 @@ data class Sections(
         HomeRecentlyPlayedSectionData,
         HomeSpotlightSectionData,
         HomeOnboardingSectionDataV2,
+        HomeYourDJSectionData
         HomeWatchFeedSectionData,
         BrowseGenericSectionData,
         BrowseGridSectionData,
